@@ -1,0 +1,2 @@
+target/release/spotifyd /usr/bin/
+debian/spotifyd.conf etc/
